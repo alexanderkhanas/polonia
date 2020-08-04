@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "355689690012",
+    "firebase_url": "https://pilot-e79e4.firebaseio.com",
+    "project_id": "pilot-e79e4",
+    "storage_bucket": "pilot-e79e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355689690012:android:50fa96d6171b59ad92ce59",
+        "android_client_info": {
+          "package_name": "com.pilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355689690012-vu0ah46mmh97tklarok3m3g75aoorm9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGf6mjsFr8HFZfM8e4jvlR5io2zxUMkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355689690012-vu0ah46mmh97tklarok3m3g75aoorm9v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355689690012-vgk65la327qi17n61r6am4r6h4oipg6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.pilot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355689690012:android:93fbd8bc3b6b673e92ce59",
+        "android_client_info": {
+          "package_name": "com.polonia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355689690012-vu0ah46mmh97tklarok3m3g75aoorm9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGf6mjsFr8HFZfM8e4jvlR5io2zxUMkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355689690012-vu0ah46mmh97tklarok3m3g75aoorm9v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355689690012-vgk65la327qi17n61r6am4r6h4oipg6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.pilot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
